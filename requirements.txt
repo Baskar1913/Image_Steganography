@@ -1,6 +1,6 @@
 streamlit
 numpy
-PIL
+Pillow
 Image
 structural_similarity
 skimage.metrics
