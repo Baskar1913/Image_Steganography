@@ -2,6 +2,7 @@ streamlit
 numpy
 Pillow
 Image
-structural_similarity
+scikit-image
 skimage.metrics
 math
+
